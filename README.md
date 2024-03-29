@@ -13,10 +13,9 @@
 
 ## 동영상 링크
 - 라히다 실습 영상:
-  - SLAP MAPING: https://youtu.be/gG4FP2P-wjs
+  - 주행영상: https://youtu.be/gG4FP2P-wjs
  
-    [![Video Label](http://img.youtube.com/vi/gG4FP2P-wjs/0.jpg)](https://youtu.be/gG4FP2P-wjs)
-
+  [![Video Label](http://img.youtube.com/vi/gG4FP2P-wjs/0.jpg)](https://youtu.be/gG4FP2P-wjs)
 
 - SLAM_NAVI 실습 영상:
   - SLAP MAPING: https://youtu.be/wFyYk8Tk38E
