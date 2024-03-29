@@ -15,7 +15,7 @@
 - 라히다 실습 영상:
   - SLAP MAPING: https://youtu.be/gG4FP2P-wjs
  
-    [![Video Label](http://img.youtube.com/vi/gG4FP2P/0.jpg)](https://youtu.be/gG4FP2P)
+    [![Video Label](http://img.youtube.com/vi/gG4FP2P-wjs/0.jpg)](https://youtu.be/gG4FP2P-wjs)
 
 
 - SLAM_NAVI 실습 영상:
