@@ -21,7 +21,7 @@
 - SLAM_NAVI 실습 영상:
   - SLAP MAPING: https://youtu.be/wFyYk8Tk38E
  
-    [![Video Label](http://img.youtube.com/vi/wFyYk8Tk38E/0.jpg)](https://youtu.be/wFyYk8Tk38E)
+  [![Video Label](http://img.youtube.com/vi/wFyYk8Tk38E/0.jpg)](https://youtu.be/wFyYk8Tk38E)
   - 주행영상: https://youtu.be/Aq5cgixxorA
     
   [![Video Label](http://img.youtube.com/vi/Aq5cgixxorA/0.jpg)](https://youtu.be/Aq5cgixxorA)
