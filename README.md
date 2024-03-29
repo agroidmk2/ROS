@@ -15,15 +15,16 @@
 
 - SLAM_NAVI 실습 영상:
   - SLAP MAPING: https://youtu.be/wFyYk8Tk38E
-  - 
+ 
     [![Video Label](http://img.youtube.com/vi/wFyYk8Tk38E/0.jpg)](https://youtu.be/wFyYk8Tk38E)
-  - 주행영상: https://youtu.be/w5q3SaFmKsM
+  - 주행영상: https://youtu.be/Aq5cgixxorA
     
-  [![Video Label](http://img.youtube.com/vi/w5q3SaFmKsM/0.jpg)](https://youtu.be/w5q3SaFmKsM)
-- Lane_Detetion 실험 영상:
-  - 주행영상: [https://youtu.be/iP6tgItml4k](https://youtu.be/B7D60F8CwB8)
+  [![Video Label](http://img.youtube.com/vi/Aq5cgixxorA/0.jpg)](https://youtu.be/Aq5cgixxorA)
+
+- Lane_Detetion 실험 영상: 
+  - 주행영상: https://youtu.be/B7D60F8CwB8
     
-   [![Video Label](http://img.youtube.com/vi/iP6tgItml4k/0.jpg)](https://youtu.be/iP6tgItml4k)
+   [![Video Label](http://img.youtube.com/vi/B7D60F8CwB8/0.jpg)](https://youtu.be/B7D60F8CwB8)
   - 주행영상2: https://youtu.be/oNakLLWbEVI
 
   [![Video Label](http://img.youtube.com/vi/oNakLLWbEVI/0.jpg)](https://youtu.be/oNakLLWbEVI)
