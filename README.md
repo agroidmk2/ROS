@@ -12,6 +12,11 @@
 - **SLAM과 Navigation을 활용한 TurtleBot 조작**: SLAM(Simultaneous Localization and Mapping)과 Navigation 알고리즘을 이용한 로봇의 자율 주행 방법을 학습하였습니다.
 
 ## 동영상 링크
+- 라히다 실습 영상:
+  - SLAP MAPING: https://youtu.be/gG4FP2P-wjs
+ 
+    [![Video Label](http://img.youtube.com/vi/gG4FP2P/0.jpg)](https://youtu.be/gG4FP2P)
+
 
 - SLAM_NAVI 실습 영상:
   - SLAP MAPING: https://youtu.be/wFyYk8Tk38E
