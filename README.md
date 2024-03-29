@@ -25,9 +25,7 @@
   - 주행영상: https://youtu.be/B7D60F8CwB8
     
    [![Video Label](http://img.youtube.com/vi/B7D60F8CwB8/0.jpg)](https://youtu.be/B7D60F8CwB8)
-  - 주행영상2: https://youtu.be/oNakLLWbEVI
 
-  [![Video Label](http://img.youtube.com/vi/oNakLLWbEVI/0.jpg)](https://youtu.be/oNakLLWbEVI)
 
 ## 참고 자료
 
